@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+button#book {
+  background: transparent;
+  border: transparent;
+  display: grid;
+  width: 114px;
+  cursor: pointer;
+  margin: 10px 40px;
+}
+button #bookCover {
+  width: 114px;
+  height: 162px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px 0 rgba(211, 209, 238, 0.5);
+}
+
+#author {
+  font-family: MontserratRegular;
+  font-size: 12px;
+  color: #a0a0a0;
+  left: 0;
+}
+#title {
+  font-weight: bold;
+  font-family: MontserratRegular;
+  font-size: 12px;
+  color: #333;
+}
+.infinite-scroll-component {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  grid-gap: 5px;
+  background-color: #f0f0f6;
+  padding: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .infinite-scroll-component {
+    grid-template-columns: auto auto auto;
+  }
+}
