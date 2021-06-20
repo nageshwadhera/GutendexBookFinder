@@ -1,3 +1,9 @@
+
+## You are required to import two packaged in order to use this project.
+## Packages are given below:
+### react-infinite-scroll-component
+### Axios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,12 +79,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-
-
-You are required to import two packaged in order to use this project.
-Packages are given below:
-react-infinite-scroll-component
-Axios
 
 
 
