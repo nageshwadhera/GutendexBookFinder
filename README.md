@@ -1,8 +1,8 @@
 
 ## You are required to import two packaged in order to use this project.
 ## Packages are given below:
-### react-infinite-scroll-component
-### Axios
+### * react-infinite-scroll-component
+### * Axios
 
 # Getting Started with Create React App
 
